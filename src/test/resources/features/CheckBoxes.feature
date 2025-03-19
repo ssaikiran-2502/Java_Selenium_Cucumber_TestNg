@@ -1,3 +1,5 @@
+
+##----------------Test to verify if checkboxes in The Internet site is working fine---------------------##
 Feature: to validate checkboxes
   Scenario: Validate checkboxes in Internet page
     Given User login's to the Internet homepage
